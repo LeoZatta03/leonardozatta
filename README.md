@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Leonardo Zatta
+# 👨🏻‍💻 Leonardo Zatta
 
 **`Desenvolvedor Front-End`**
 
