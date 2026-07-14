@@ -39,7 +39,6 @@ Me chamo Leonardo Zatta de Los Santos, tenho 22 anos e sou natural do Rio Grande
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
-/>
 
 <img 
     align="left" 
@@ -47,7 +46,7 @@ Me chamo Leonardo Zatta de Los Santos, tenho 22 anos e sou natural do Rio Grande
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg)"/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <br/>
 <br/>
 
